@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+The link leads to a placeholder webpage called "Example Domain." This site is used as a demonstration in documentation and instructional materials. For more information,
+visit https://book-store-next-js-vert.vercel.app/
 
 First, run the development server:
 
