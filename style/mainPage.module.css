@@ -1,0 +1,37 @@
+.heroImage {
+    position: absolute;
+    background-color: rgba(99, 99, 99, 0.548);
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+}
+
+.Image {
+    position: absolute;
+    z-index: 1;
+}
+
+.mainText {
+    position: absolute;
+    z-index: 4;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -10%);
+    color: aqua;
+    letter-spacing: 5px;
+    font-size: 35px;
+    text-shadow: 1px 1px 30px aquamarine;
+}
+
+.textEffect {
+    position: absolute;
+    z-index: 4;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: aqua;
+    font-size: 25px;
+    letter-spacing: 2px;
+    text-align: center;
+}
